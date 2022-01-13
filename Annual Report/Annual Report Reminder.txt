@@ -1,0 +1,9 @@
+Annual Report
+
+Retail Fund
+1. One Currency Class - Refer to UMMF Fund
+2. More than One Currency Class - Refer to UGDEF Fund
+
+Wholesale Fund
+1. One Currency Class - Refer to UGIFF Fund
+2. More than One Currency Class - Refer to UICIF Fund
